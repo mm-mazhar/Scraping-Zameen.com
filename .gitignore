@@ -1,0 +1,6 @@
+.env/*
+.venv/*
+chromedriver.exe
+*.ipynb
+*.ipynb_checkpoints
+

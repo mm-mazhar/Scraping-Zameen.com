@@ -1,0 +1,59 @@
+#   Column                                    		 			dtype  
+----------------------------------------------------------------------------------------------------------
+ 0   Ids                                         	 			int64
+ 1   Location1                                    				string 
+ 2   Location2                                  				string 
+ 3   Type                                         				string
+ 4   Bedrooms                                     				float64
+ 5   Bathrooms                                  				float64
+ 6   Size_in_SqYds                              				float64
+ 7   Price_in_millions                          				float64
+ 8   Parking_Spaces                               				int64
+ 9   Floors_in_Building                         				float64
+ 10  Elevators                                  				float64
+ 11  Store_Rooms                                				float64
+ 12  Lobby_in_Building                            				int64  / 0 or 1  
+ 13  Double_Glazed_Windows                        				int64  / 0 or 1  
+ 14  Central_Air_Conditioning                    				int64  / 0 or 1  
+ 15  Central_Heating                              				int64  / 0 or 1  
+ 16  Waste_Disposal                               				int64  / 0 or 1  
+ 17  Furnished                                   	 			int64  / 0 or 1  
+ 18  Service_Elevators_in_Building               				int64  / 0 or 1  
+ 19  Flooring                                     				int64  / 0 or 1  
+ 20  Electricity_Backup                           				int64  / 0 or 1  
+ 21  Servant_Quarters                             				int64  / 0 or 1  
+ 22  Study_Room                                   				int64  / 0 or 1  
+ 23  Prayer_Room                                  				int64  / 0 or 1  
+ 24  Powder_Room                                  				int64  / 0 or 1  
+ 25  Gym                                          				int64  / 0 or 1  
+ 26  Lounge_or_Sitting_Room                      				int64  / 0 or 1  
+ 27  Laundry_Room                                 				int64  / 0 or 1  
+ 28  Business_Center_or_Media_Room_in_Building    				int64  / 0 or 1  
+ 29  Satellite_or_Cable_TV_Ready                  				int64  / 0 or 1  
+ 30  Broadband_Internet_Access                    				int64  / 0 or 1  
+ 31  Intercom                                     				int64  / 0 or 1  
+ 32  Conference_Room_in_Building                  				int64  / 0 or 1  
+ 33  Community_Swimming_Pool                      				int64  / 0 or 1  
+ 34  Community_Lawn_or_Garden                     				int64  / 0 or 1  
+ 35  Community_Gym                                				int64  / 0 or 1  
+ 36  Community_Center                             				int64  / 0 or 1  
+ 37  First_Aid_or_Medical_Centre                  				int64  / 0 or 1  
+ 38  Day_Care_center                              				int64  / 0 or 1  
+ 39  Kids_Play_Area                               				int64  / 0 or 1  
+ 40  Mosque                                      				int64  / 0 or 1  
+ 41  Barbeque_Area                                				int64  / 0 or 1  
+ 42  Lawn_or_Garden                              				int64  / 0 or 1  
+ 43  Swimming_Pool                                				int64  / 0 or 1  
+ 44  Sauna                                        				int64  / 0 or 1  
+ 45  Jacuzzi                                      				int64  / 0 or 1  
+ 46  Nearby_Schools                               				int64  / 0 or 1  
+ 47  Nearby_Hospital                              				int64  / 0 or 1  
+ 48  Nearby_Shopping_Malls                        				int64  / 0 or 1  
+ 49  Nearby_Restaurants                          				int64  / 0 or 1  
+ 50  Nearby_Public_Transport_Service              				int64  / 0 or 1  
+ 51  Other_Nearby_Places                          				int64  / 0 or 1  
+ 52  Security_Staff                               				int64  / 0 or 1  
+ 53  Maintainance_Staff                           				int64  / 0 or 1  
+ 54  Laundry_or_Dry_Cleaning_Facility             				int64  / 0 or 1  
+ 55  Facilities_for_Disabled                      				int64  / 0 or 1  
+ 56  Year                                       				float64
